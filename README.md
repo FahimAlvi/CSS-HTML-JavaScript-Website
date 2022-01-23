@@ -17,6 +17,7 @@ boxes at the bottom of the page have been divided into several containers and
 divisions. The button was designed to animate and change color using the built-in CSS 
 function hover, which would transfer the visitor to the reservation page. This website 
 provides a quick overview of the hotel and its amenities to the user.
+
 Background Image Source: https://www.wallpaperflare.com/asia-beach-boat-malaysia-penangsunrise-sky-water-sunset-wallpaper-hajgw
 Logo source: https://looka.com/logo-maker/
 Border image: https://wallpapercave.com/hd-background-pattern
@@ -38,6 +39,7 @@ Facilities and Services
 This website informs users about the hotel's numerous amenities and gives information 
 about those amenities and services. The user may examine photographs of the service 
 by hovering over each of the description boxes.
+
 Image Source: 
 facilities background: https://www.freepik.com/vectors/background
 Border: https://www.pngkey.com/download/u2q8u2i1t4y3u2t4_vector-rectangle-frames-goldsquare-frame-png/
@@ -62,4 +64,4 @@ The HTML form functionality is also used on the reservation page. The user may q
 fill in their name, contact information, and the date, as well as select the number of 
 guests and room types from a drop-down menu. Then, to reserve the room, click the 
 book now button. Text fields and id is implemented in this page for the functionality of 
-the reservation page
+the reservation page.
