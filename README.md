@@ -8,6 +8,7 @@ the standard markup language for structuring webpage content, CSS is used to des
 the page, and JavaScript is used to make buttons work.
 
 Homepage
+
 The website's homepage is kept basic. I utilized a darkslategrey backdrop and a picture 
 as a container for the hotel's brief description. The Home, Accommodation, Facilities 
 and Services, Contact, and Reservation pages are all linked from the navigation bar. 
@@ -21,6 +22,7 @@ Logo source: https://looka.com/logo-maker/
 Border image: https://wallpapercave.com/hd-background-pattern
 
 Accommodation
+
 The Accommodation page allows customers to see a list of all the many types of rooms 
 that our hotels have to offer, as well as the price, size, and amenities that each room 
 provides. The users' list of rooms and details is displayed in a table. The first column of 
@@ -32,6 +34,7 @@ Master bed: https://unsplash.com/photos/aI6Su7Mu9Ro
 Single bed: https://www.agoda.com/the-room-hotel_2/hotel/mirimy.html?cid=1844104&checkIn=2021-12-13&los=1&travellerType=1
 
 Facilities and Services
+
 This website informs users about the hotel's numerous amenities and gives information 
 about those amenities and services. The user may examine photographs of the service 
 by hovering over each of the description boxes.
@@ -46,6 +49,7 @@ Free Internet: https://wallpapercave.com/w/wp1906316
 
 
 Contact
+
 The contact page assists the user in sending us an email. The user may fill in the 
 appropriate blanks in each text field and submit the form by clicking the send button. 
 This page also includes the hotel's address and email address, which may be found in 
@@ -53,6 +57,7 @@ the HTML footer. In HTML, the contact us box is in a form class which uses text 
 hold the information.
 
 Reservation
+
 The HTML form functionality is also used on the reservation page. The user may quickly 
 fill in their name, contact information, and the date, as well as select the number of 
 guests and room types from a drop-down menu. Then, to reserve the room, click the 
