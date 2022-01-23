@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hotel</title>
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+<style>
+    body {
+        background-color:darkslategrey;
+        background-image: url("6836871.jpg");
+        background-size: 1920px 1080px;
+    }
+</style>
+
+<!---Navbar--->
+<div class="navbar">
+    <div class="logo"><a href="HomePage.html"><img src = "flogo.bmp" </a></div>
+    <div class="nav-menu">
+        <li><a href="HomePage.html">Home</a></li>
+        <li><a href="Accommodation.html">Accommodation</a></li>
+        <li><a href="Facilities.html">Facilities and Services</a></li>
+        <li><a href="Contact.html">Contact</a></li>
+        <li><a href="Reservation.html">Reservation</a></li>
+    </div>
+</div>
+<div class="rescontainer">
+    <form class="form-group">
+        <div id="form">
+            <h1 style="color: white" class="text-white text-center" > Booking Now </h1>
+
+            <div id="first-group">
+
+                <div id="content">
+                    <i class="fa fa-user" aria-hidden="true"></i>
+                    <input type="text" id="input-group" placeholder="First name">
+                </div>
+
+                <div id="content">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <input type="number" id="input-group" placeholder="Phone number">
+                </div>
+
+                <div id="content">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                    <input type="text" id="input-group" placeholder="Departure Date">
+                </div>
+
+                <div id="content">
+                    <i class="fa fa-users" aria-hidden="true"></i>
+                    <select id="input-group" style="background-color: black;">
+                        <option value="">No.of guests</option>
+                        <option value="">1-5</option>
+                        <option value="">6-10</option>
+                        <option value="">11-20</option>
+                    </select>
+                </div>
+
+            </div>
+
+            <div id="second-group">
+
+                <div id="content">
+                    <i class="fa fa-user" aria-hidden="true"></i>
+                    <input type="text" id="input-group" placeholder="Last name">
+                </div>
+
+                <div id="content">
+                    <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                    <input type="email" id="input-group" placeholder="Email">
+                </div>
+
+                <div id="content">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                    <input type="text" id="input-group" placeholder="Arrival Date">
+                </div>
+
+                <div id="content">
+                    <i class="fa fa-users" aria-hidden="true"></i>
+                    <select id="input-group" style="background-color: black;">
+                        <option value="">Room Type</option>
+                        <option value="">Master Bed</option>
+                        <option value="">Single Bed</option>
+                        <option value="">Double Bed</option>
+                    </select>
+                </div>
+
+            </div>
+
+            <button type="submit" value="Submit" id="submit-btn">Book Now</button>
+
+        </div>
+    </form>
+</div>
+</body>
+</html>
