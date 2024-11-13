@@ -46,6 +46,7 @@ Master bed: https://unsplash.com/photos/aI6Su7Mu9Ro
 Single bed: https://www.agoda.com/the-room-hotel_2/hotel/mirimy.html?cid=1844104&checkIn=2021-12-13&los=1&travellerType=1
 
 
+![page2](https://github.com/user-attachments/assets/910a0316-5183-4e54-9c9c-48eb1bc8782e)
 
 Facilities and Services
 
@@ -68,6 +69,8 @@ Room Service: https://www.wallpaperflare.com/men-s-black-waistcoat-waiter-tray-s
 
 Free Internet: https://wallpapercave.com/w/wp1906316
 
+![page3](https://github.com/user-attachments/assets/12e025fc-cc24-4d09-8686-ac506289d317)
+
 
 Contact
 
@@ -86,3 +89,6 @@ fill in their name, contact information, and the date, as well as select the num
 guests and room types from a drop-down menu. Then, to reserve the room, click the 
 book now button. Text fields and id is implemented in this page for the functionality of 
 the reservation page.
+
+![page4](https://github.com/user-attachments/assets/846c5b58-02c3-427b-85b0-2681829d33ca)
+
