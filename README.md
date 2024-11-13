@@ -26,6 +26,7 @@ Logo source: https://looka.com/logo-maker/
 
 Border image: https://wallpapercave.com/hd-background-pattern
 
+![homegif](https://github.com/user-attachments/assets/e3e1a252-3f7c-43c1-9c82-2249eaa5e198)
 
 
 Accommodation
